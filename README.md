@@ -1,5 +1,28 @@
 # SQL_Challenge
 
+This SQL challenge there are six CSV files containing data related to a company's employee and department records. The files are named as follows:
+
+employees.csv
+departments.csv
+dept_emp.csv
+dept_manager.csv
+salaries.csv
+titles.csv 
+
+To create an ERD or table schema, we can use a tool such as Quick Database Diagrams (https://app.quickdatabasediagrams.com/#/).
+
+The following is a brief description of each CSV file and its fields:
+
+employees.csv - Contains information about the employees, such as their employee ID number, birth date, first name, last name, gender, and hire date.
+departments.csv - Contains information about the departments, such as their department number and name.
+dept_emp.csv - Contains information about the department-employee relationships, such as which employee is assigned to which department
+dept_manager.csv - Contains information about the department-manager relationships, stating the employee ID number and what deptartment they manage
+salaries.csv - Contains information about the employees' salaries, such as their salary amount and the employee number.
+titles.csv - Contains information about the employees' titles , such as their title ID, and title type.
+
+
+The project involves creating queries to answer several questions about the employees and their departments. Below are the questions and their corresponding SQL queries:
+
 Data Analysis
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
