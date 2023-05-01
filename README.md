@@ -30,7 +30,7 @@ titles.csv - Contains information about the employees' titles , such as their ti
 
 The project involves creating queries to answer several questions about the employees and their departments. Below are the questions and their corresponding SQL queries:
 
-Data Analysis
+## Data Analysis
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
